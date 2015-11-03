@@ -3,10 +3,11 @@ titles:
     cod: "Don't be a jerk policy"
     hackathon: Hackathon
     logistics: "Get ready to DevFest"
-    schedule: "Event schedule"
-    speakers: Speakers
-    team: Team
+    schedule: "Program"
+    speakers: Konuşmacılar
+    team: Takım
     metu-ccm: "ODTU KKM"
     from-airport: "Havaalanından Konferansa"
     to-airport: "Konferanstan Havaalanına"
     ankara: "Ankarada Yapabilecekleriniz"
+    workshop-schedule: "Workshop programı"

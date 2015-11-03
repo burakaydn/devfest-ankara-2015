@@ -3,7 +3,3 @@ links:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/logistics/", text: "Ulaşım"}
-bottomLinks:
- - {link: "http://bit.ly/1L0INvi", text: "Konuşmacı ol"}
-rightButtons:
- - {link: "http://bit.ly/1L0INvi", text: "Konuşmacı ol"}

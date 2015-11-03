@@ -4,5 +4,4 @@ eventDate: "November 14th, 2015"
 typeoutTextValues: '"", " Ankara", " Turkey", "Conference", " Workshop"'
 typeoutFallback: "Season"
 buttons:
- - {link: "http://bit.ly/1L0INvi", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Register to Event"}

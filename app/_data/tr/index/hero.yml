@@ -4,5 +4,4 @@ eventDate: "14 Kasım 2015"
 typeoutTextValues: '"", " Ankara", " Türkiye", "Konferans", "Çalıştay"'
 typeoutFallback: "Sezon"
 buttons:
- - {link: "http://bit.ly/1L0INvi", text: "Konuşmacı ol"}
  - {permalink: "/#tickets", text: "Etkinliğe Kaydol"}

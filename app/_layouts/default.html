@@ -28,6 +28,9 @@
 
     {% if page.permalink == '/schedule/' %}
         {% include schedule/sessions-modals.html %} 
+    {% endif %}
+    {% if page.permalink == '/workshop-schedule/' %}
+        {% include workshop-schedule/sessions-modals.html %} 
     {% endif %} 
 
     {% include analytics.html %}

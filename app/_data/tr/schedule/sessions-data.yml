@@ -11,16 +11,16 @@
   service: true
 -
     id: 101
-    title: "Android 101: Android'e Giriş Çalıştayı"
-    description: "Android 101 size şunları öğretir :<br>-Android nedir? Android Studio nasıl kullanılır?<br>-Gradle nedir?<br>-Activity nedir? View nedir?<br>-Resources dosyaları nelerdir?<br>-Küçük, sevimli bir Android uygulaması nasıl yapılır?<br>-ve bu Google Play Store da nasıl yayınlanır?"
+    title: "Android 101: Introduction to Android Workshop"
+    description: "Android 101 will teach you these:<br>-What is Android?<br>-How to use Android Studio?<br>-What is Gradle?<br>-What is Activity? What is View?<br>-What are Resources?<br>-How to make a small and sweet Android Application?<br>-and How to release an application to Google Play Store?"
     subtype: workshop
     speakers: [1]
     language: tr
     complexity: "Beginner"
 -
     id: 102
-    title: "Android 101: Android'e Giriş Çalıştayı"
-    description: "İki oturumdan oluşacak workshopta ilk oturum Android hakkında kısa ve ilginç bilgilerin sunulacağı sunum şeklinde gerçekleşecektir. İkinci oturumda ise aksiyona geçip Android Studio üzerinde başlangıç seviyesindeki ilk uygulamamızı geliştireceğiz."
+    title: "Android 101: Introduction to Android Workshop"
+    description: "Our workshop has two sessions. First session is a presentation which will give short and interesting infos about Android. At the second session, we will get into action and we develop our first application which is beginner level on Android Studio."
     subtype: workshop
     speakers: [2]
     language: tr
@@ -28,32 +28,144 @@
 -
     id: 103
     title: "Ada Lovelace Day, Woman Tech Makers"
-    description: "Bu sunumda Ada Lovelace hakkında bilgi verilecektir. Ada Lovelace Gününün ve Woman Tech Makers organizasyonlarının amacı, neden düzenlendiklerini anlatılacaktır."
+    description: "This presentation will be about Who is Ada Lovelace? Why we are doing Ada Lovelace day and Woman Tech Makers events?"
     subtype: presentation
     speakers: [3]
     language: tr
     complexity: "Beginner"
 -
     id: 104
-    title: "Raspberry Pi Workshop"
+    title: "Bilgisayarınızı Cebinizde Taşıyın"
     description: "Raspberry Pi kullanımına dair en temel seviyeden başlayacağımız workshop herkesin katılımına açık olacaktır. Anlatılacaklar;, Raspberry Pi kullanımı için gerekli Linux ve Elektronik bilgis, Raspberry Pi kurulum, Raspberry Pi Uygulamaları (GPIO, Kamera, Python, Minecraft), Raspberry Pi’a yazılım yükleme ve kullanım (Webiopi, Wiringpi)"
-    subtype: workshop
+    subtype: presentation
     speakers: [4]
     language: tr
     complexity: "Beginner"
 -
     id: 105
     title: "PardusARM"
-    description: "Pardus(Tubitak) hakkında bilgi, Gömülü sistemler ve genel özellikleri, Neden PardusARM? PardusARM-3 projeleri: PardusARM ile Okulöncesi ve ilköğretim, PardusARM IoT , PardusARM LAB. ve PardusARM Sunucu/Hosting/Bulut, PardusARM ve gelecek nesillerimiz"
-    subtype: presentation
+    description: "PardusARM'dan Beklenti ve istekleriniz!, PardusARM ile ortak projeler, eğitimler ve gönüllü topluluklar."
+    subtype: workshop
     speakers: [5]
     language: tr
     complexity: "Beginner"
 -
     id: 106
-    title: "PardusARM"
-    description: "PardusARM'dan Beklenti ve istekleriniz!, PardusARM ile ortak projeler, eğitimler ve gönüllü topluluklar."
+    title: "Android ile RealTime uygulamalar geliştirmek"
+    description: "Spotify , Whatsapp ve birçok büyük firmaların kullanmış oldukları süper hızlı tepki veren servislerin yazılması ve oturumda Spotify connect klonu yazmak ve 5+ cihaz bağlamak "
     subtype: workshop
-    speakers: [5]
+    speakers: [6]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 107
+    title: "Docker 101"
+    description: "What is docker? How docker is work? Docker Toolbox ( docker machine, docker swarm, docker compose etc.)"
+    subtype: workshop
+    speakers: [7]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 108
+    title: "Yazılım Psikolojisi"
+    description: "Teknolojinin ve sanayinin hızla ilerlemesi sonucu gün geçtikçe yazılımların kullanım oranı artıyor ve buna bağlı olarak da mükemmel çözümler getiriyor. Nasıl ki insanın psikolojisi pozitifken diğer insanlara da pozitif enerji yayıyorsa yazılımlar da bilinçaltında psikolojik sonuçlar doğurur. Yazılımların psikolojisi, yazılımı kullanan kişilere etki eder ve bazı sonuçlar sergiletir. Yazılımın psikolojisini en üst seviyede pozitif etki vermesini sağlarsak yazılımdan en iyi faydayı sağlayabiliriz. İşin sırrı bunu nasıl yapabilmek. Günümüzde birçok yazılım ortaya çıkıyor değişik platformlarda; bazıları istenilen hedefleri verirken bazıları hedefini ulaşamıyor hatta kullananı bile çıkmıyor. Yazılım da insansı bir özelliğe bürünmüştür çünkü. Kendini anlatabilmesi ve karşı tarafa nasıl bir kolaylık sağlaması gerektiğini anlatması gerekir. Bu psikolojiyi doğru grafik, doğru tasarım, doğru kod, doğru iletişim yöntemleriyle yapılırsa en iyi verim elde edilir ve kullanıcı bu yazılımı kendisi için zorunluymuş gibi hisseder. Özetle yazılımın yansıttığı psikolojiye doğru yönlendirmeler yapmak gerekir."
+    subtype: workshop
+    speakers: [8]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 109
+    title: "Mobil Uygulamalar ve App Inventor"
+    description: "Konu: Mobil Teknolojiler Dil Türkçe ve Başlangıç seviyesinde olacaktır. Bu workshop içerisinde Google ve MIT ortak ürünü olan App Inventor ile android uygulaması geliştirerek bir başlangıç yapacağız. İçerik: -App Inventor nedir? Kimlere hitap eder?, -Ne tür mobil uygulamalar yapılabilir?, -Hızlı ürün çıkarmanın faydaları?, -App Inventor ile nasıl uygulama geliştiririz?, -Yapamayacaklarınız, -Geleceği Yazanların sunduğu kaynaklar,"
+    subtype: workshop
+    speakers: [9]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 110
+    title: "MongoDb for Java Developers"
+    description: "MongoDb ve Kullanım alanları, Performans ,özellikler ve melez mimariler ile entegrasyonları. Java ile kullanımı."
+    subtype: presentation
+    speakers: [10]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 111
+    title: "Microsoft"
+    description: ""
+    subtype: presentation
+    speakers: [11]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 112
+    title: "D3js ile Verinin Görselleştirilmesi"
+    description: "Data-Driven Documents olarak da bilinen D3.js (d3js.org) verinin görselleştirilmesi için kullanılan bir JavaScript kütüphanesidir. Büyük verinin de etkisiyle, tarayıcı üzerinde zengin görselleştirmelerin oluşturulması için son zamanlarda D3.js’in popülerliği giderek artmaktadır. İlk başlarda alt seviye görsel bir kütüphane olarak kullanılan D3.js, son zamanlarda kendisini temel alan, özelleşmiş, kullanımı kolay bir çok yeni kütüphanenin çıkmasını sağlamıştır. Bol bol görsel örnek içerecek olan bu sunumda, D3.js’e giriş yapılacak, kütüphanenin temel yapı-taşları anlatılacak ve veri görselleştirilmesinde D3.js’in neden bu kadar kullanıldığı anlatılmaya çalışılacaktır."
+    subtype: presentation
+    speakers: [12]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 113
+    title: "Teknolojiyi Sömürmek"
+    description: "Yazılım geliştiriciler olarak onlarca farklı araç kullanıyoruz. Teknoloji üretirken, teknolojinin üretmiş olduğu araçlar bunlar. Bu araçları ne kadar iyi tanıyoruz ? Neden iyi tanımalıyız? Sıklıkla karşılaştığım bir sorun şu ki, insanlar kullandıkları araçların yeteneklerinden bihaber durumdalar. Üstelik bu insanlara teknoloji üreten biz yazılımcılar da dahiliz. Kullandığımız IDE'nin file watcher desteği olduğundan haberimiz olmadığı için küçücük işlere, adını sıkça duyduğumuz grunt'ı dahil edebiliyoruz. Kullandığımız dilin çözdüğü sorunları bilmediğimizden, hiç gerek yokken satırlarca kod yazabiliyoruz. Kullandığımız framework'e hakim olmadığımız zaman, bunu framework yapabiliyor mu diye sormak yerine, yazmaya ve sorunu gerilla taktiğiyle çözmeye çalışıyoruz. Bunları nasıl aşabiliriz ? Yazılım geliştirirken elimizdeki araçları en iyi hangi şekilde kullanabiliriz?"
+    subtype: presentation
+    speakers: [13]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 114
+    title: "Modern PHP"
+    description: "Oturumda PHP ekosisteminde son birkaç yılda olan modern gelişmeler yanı sıra Ekim ayının ortasında RC5 sürümü yayınlanan ve yıl sonuna kadar hayatımıza girecek olan PHP 7 yakından incelenecek. Modern araçlar, ekosistem ve topluluktan bahsedilecek bu sunum, her seviyeden geliştiriciye hitap ediyor!"
+    subtype: presentation
+    speakers: [14]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 115
+    title: "Developing a Succesfull UX Strategy"
+    description: "In this presentation, we will talk about the importance of  UX strategy. UX strategy is about building a rationale to guide UX design efforts for the foreseeable future. UX strategy communicates a vision, priorities, design direction, and roadmap to serve as a North Star for all of the people in an organization who are planning and building digital products and programs. UX strategy is fundamentally based on data, but also encompasses creative leaps that let teams innovate and adapt to rapidly evolving technology contexts."
+    subtype: presentation
+    speakers: [15]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 116
+    title: "Building REST API with Go Lang"
+    description: "Go programlama dili son zamanlarda oldukça popüler ve bir çok startup tarafından tercih edilmekte. Bu sunumda Go dilinin standart HTTP paketlerinin güçlü ve zayıf yanlarından, Go data yapılarının JSON ilişkilerinden, Gorilla web toolkitinden, bazı popüler frameworklerin güçlü ve zayıf yanlarından,  bahsedilecektir."
+    subtype: presentation
+    speakers: [16]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 117
+    title: "Android and Electrons"
+    description: "Android paltformunda her geliştiricinin kullanması gerektiğini düşündüğüm; -Retrofit -Retrolamda -Picasso -Dagger -MVP Pattern -Butterknife gibi konuları ele alıp kullanımını göstereceğim."
+    subtype: presentation
+    speakers: [17]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 118
+    title: "Bağlantı teknolojileri"
+    description: "Kısaca bütün geliştirme kartlarını bir bluetooth modül veya wifi herhangi bir bağlantı modülü ile elinizde ki telefon veya gene çeşitli bağlantı modülleri bulunan diğer cihazlarla onları elinizde ki telefondan yönetebiliriz."
+    subtype: workshop
+    speakers: [18]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 119
+    title: "Açılış Konuşması"
+    description: "Açılış Konuşması"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 120
+    title: "Kayıt"
+    description: "Açılış Konuşması"
+    subtype: presentation
+    speakers: []
     language: tr
     complexity: "Beginner"

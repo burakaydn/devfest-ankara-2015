@@ -19,5 +19,5 @@ url: "http://devfest.gdgankara.org"
 permalink: '/blog/:title'
 
 # i18n
-languages: ["en", "tr"]
+languages: ["tr", "en"]
 exclude_from_localizations: ["js", "img", "css"]

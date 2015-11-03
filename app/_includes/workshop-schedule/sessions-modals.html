@@ -1,6 +1,5 @@
 <!-- Begin Sessions Modals -->
 <div class="modals" class="modals">
-<script type="text/javascript"> console.log("ZAAAAAAAAAAA");</script>
 	{% for session in site.data.[site.lang].schedule.sessions-data %}
 		<div class="modal fade text-left people-modal" id="sessionDetail-{{ session.id }}" tabindex="-1" role="dialog" aria-labelledby="sessionDetailLabel-{{ session.id }}" aria-hidden="true">
 			<div class="modal-dialog">
@@ -35,7 +34,7 @@
 									{% if session_speaker == speaker.id %}
 									<div class="row">
 										<div class="col-md-2 col-sm-2">
-											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl_root | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl_root | append: '/img/people/'}}{% if speaker.thumbnailUrl %}{{ speaker.thumbnailUrl }}{% else %}default.png{% endif %})"></div>
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}

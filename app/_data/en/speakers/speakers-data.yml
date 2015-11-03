@@ -2,8 +2,8 @@
     id: 1
     name: "Burcu"
     surname: "Türkmen"
-    title: "Mobile Software Developer"
-    bio: "She got bachelor degree from Anadolu University as a Computer Engineer in 2012 . She has an active role in GDG Eskişehir Community and she is one of the co-organizers at WTM  Eskişehir Community. She has began her career as an Android Developer and she also developes iOS Applications. "
+    title: "Mobil Yazilim Gelistirici"
+    bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünden 2012 yılında mezun oldu. GDG Eskişehir topluluğunda aktif olarak görev almakta. Aynı zamanda WTM Eskişehir topluluğunda co-organizerlar arasında. Android uygulamaları geliştirerek başladığı kariyer hayatına, şimdilerde iOS uygulamaları da geliştirerek devam ediyor."
     thumbnailUrl: burcu.jpg
     rockstar: true
     ribbon:
@@ -16,9 +16,9 @@
     id: 2
     name: "Mehmet Sedat"
     surname: "Kurt"
-    title: "Co-Founder at 4pps"
     company: "4pps"
-    bio: "I have started to mobile developing by GDG Ankara. At the beginning, I was interested in for some curious or fun, now I feel myself as a front-end developer. After graduation from Hacettepe University Computer Engineering, me and my friends have founded the 4PPS company and for a last year we try to make mobile solutions for problems we met."
+    title: "4pps Ortak Kurucusu"
+    bio: "Mobil uygulama geliştirme ile GDG Ankara yoluyla tanıştım. Biraz merak biraz eğlence için çıktığım bu yolda front-end geliştirici olarak işlerimi sürdürmekteyim. Hacettepe Üniversitesi Bilgisayar Mühendisliğinden mezun olduktan çok kısa süre sonra arkadaşlarımla birlikte 4PPS firmasını kurduk ve son 1 yıldır önümüze çıkan problemlere mobil çözümler üretmeye çalışıyoruz."
     thumbnailUrl: sedatkurt.jpg
     rockstar: true
     ribbon:
@@ -42,7 +42,7 @@
     surname: "Subaşı"
     company: "SAMM Teknoloji"
     title: "Ürün Yöneticisi"
-    bio: "Elektronik Ön Lisansını bölüm 1.liği ile bitiren Ramazan Subaşı. DGS ile Ege Ünv. Elektrik-Elektronik Mühendisliğine geçiş yaptı.  Eğitim süresi boyunca teknik servis daha sonraları ise ar-ge firmalarında gömülü sistemler üzerinde çalıştı. Şuan Raspberry Pi’nin Türkiye tedariğini sağlayan SAMM Teknoloji’de Ürün Yöneticisi olarak yapıyor. Maker hareketi içinde aktif yer almaktadır. İzmir Hackerspace’in kurucularındandır. İstaenbul Mini Maker Faire 2015 organizasyonunda Kuratör olarak görev almaktadır."
+    bio: " Elektronik Ön Lisansını tamamladıktan sonra Ege Ünv. Elektrik-Elektronik Mühendisliğine geçiş yaptı. Eğitim süresi boyunca teknik servis daha sonraları ise Ar-Ge firmalarında gömülü sistemler üzerine çalıştı. Şuan Raspberry Pi’nin Türkiye tedariğini sağlayan SAMM Teknoloji’de Ürün Yöneticisi olarak görev yapıyor. Maker hareketi içinde de aktif yer almaktadır; İzmir Hackerspace’in kurucularındandır. İzmir Maker Faire (Sende Yap İzmir) ve İstanbul Mini Maker Faire 2015 organizasyonlarında görev almaktadır."
     thumbnailUrl: ramazan.png
     rockstar: true
 -
@@ -54,3 +54,134 @@
     bio: "1972'de Doğdum. İlk öğrenimi Almanya/Köln'de tamamladım. Comaddore C-64 ve Amiga A-500 ile Bilişim dünyasına giriş yaptım. 1997 Yılında Linux ile tanıştım.(RedHat Linux 5.2) 2000 Yılında Linux34.com Projesini hayata geçirdim. Tüm Türkiye'ye Linux CD'si dağıttık. LS Bilişim'i kurdum. Linux/Network Çözümleri sunuyoruz. 2014 Yılında PardusARM Projesine başladım. PardusARM 1, PardusARM 2 çıkardık. PardusARM 3 Yolda..."
     thumbnailUrl: erdogan.jpg
     rockstar: true
+-
+    id: 6
+    name: "Volkan"
+    surname: "Uğur"
+    company: "VOXPORTA"
+    title: "Senior Mobile App Developer"
+    bio: "Yaklaşık 10 yıldır yazılım ile uğraşıyorum. Ankara Üniversitesi Fizik Mühendisliği okuyorum C,C++ ve Delphi ile 7 yılı aşkın süredir aktif olarak geliştirme yapıyorum mobil ile ilk tanışmam ios 3 sdk ile oldu Android ile 2 yıl öncesinde tanıştım ve çok sevdim voxporta şirketinde Senior mobile application developer olarak çalışmaktayım. Arduino , raspberry pi , beaglebone üzerine yazmış olduğum birçok open source hacking uygulamaları ve kütüphaneler mevcut ayrıca Atmel AVR işlemcileri üzerinde yapay zeka çalışmalarımı sürdükmekteyim."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
+-
+    id: 7
+    name: "Numan Fatih"
+    surname: "Yarcı"
+    company: "MetGlobal"
+    title: "System Engineer"
+    bio: "I started my career at Comodo and now I am working at MetGlobal as System Engineer. My proficiency is container and virtualization technologies. I am also a member of LKD."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+-
+    id: 8
+    name: "Ramazan"
+    surname: "Akay"
+    company: ""
+    title: ""
+    bio: "Ramazan Akay 2015 yılında Avrasya Üniversitesi Moleküler Biyoloji ve Genetik bölümü bitirdi. Bilgisayar ve internet sektöründe; Web Programlama, Arayüz Programlama ve Android  Programlama üzerine birçok eğitim alıp çalışmalar yaptı. Yazılımın da kendine has psikolojisi olduğunu iddia edip bununla ilgili birçok çalışmada bulundu ve Yazılımın Psikoloğu olarak da tanınmaktadır."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+-
+    id: 9
+    name: "Yusuf Eren"
+    surname: "Utku"
+    company: Turkcell""
+    title: "Computer Engineer"
+    bio: "Yusuf Eren Utku 1992 yılında Ankara'da doğdu. 2011 yılında Selçuk Üniversitesi Bilgisayar Mühendisliği bölümünü kazandı. Öğrenim hayatı boyunca farklı teknolojiler kullanarak farklı projelerde yer aldı. Bu süreçte GGJ Ege maratonunda 4. olan oyunu geliştiren ekibin bir parçası oldu. Sonraki sene GGJ Selçuk adıyla kendi üniversitesinde bu evrensel etkinliğin ilkinin yapılmasında organizatör olarak görev aldı. Havelsan ve Kodobur’da staj yaptı. Turkcell Geleceği Yazanlar Elçisi seçildi. 2015 Haziran'da mezun oldu. Elçiler olarak 20 saatlik eğitim seti hazırladılar. Geleceği Yazanlar Android uygulamasını geliştiren 7 elçiden biri oldu. Mastercard hackathonunda geliştirdikleri android uygulamaları ile üçüncü olan 5 kişilik ekip içerisindeydi. Şu an freelance android geliştiricisi."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
+-
+    id: 10
+    name: "Selçuk"
+    surname: "Uzunsoy"
+    company: "BilgeAdam"
+    title: "Senior Software Developer"
+    bio: "Globsis firmasında (Bilkent Cyber Park) 3+ yıldır uzman yazılım mühendisi olarak görev almaktayım. Java teknolojilerinin kullanıldığı projelerde dünya genelinde hizmet veren sistemler tasarlanmaktadır. Aynı zamanda BilgeAdam bünyesinde Java ve Android teknoloji konusunda uzun süredir eğitim/danışmanlık yapmaktayım. Kurumsal firmalara bilişimde kurumsallaşan çözümler uygulamaktayım."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+-
+    id: 11
+    name: "Microsoft"
+    surname: ""
+    company: ""
+    title: ""
+    bio: ""
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+-
+    id: 12
+    name: "Fatih"
+    surname: "Aksel"
+    company: "Onbiron"
+    title: "Computer Engineer"
+    bio: "2006 yılında Ege Üniversitesi’den, 2010 yılında ODTÜ’den Bilgisayar Mühendisliği Lisans ve Yüksek Lisans derecelerini aldı. Sektörde çeşitli savunma sanayi ve kamu projelerinde çalışan Fatih, nesnelerin interneti alanında ara-katman çözümleri geliştiren Onbiron Bilişim Teknolojileri’nin kurucu ortağıdır. Tavsiye sistemleri, mobil çözümler ve kullanıcı deneyimi ilgi alanları arasındadır."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+-
+    id: 13
+    name: "Emre"
+    surname: "Yılmaz"
+    company: "Okul Bilişim"
+    title: "Web Developer"
+    bio: "2007 Yılından beri php ile web uygulamaları geliştiriyorum. Şu anda OkulBilişim bünyesi altında yazılım geliştirmeye devam ediyorum. PHP dışında ruby, python ve golang ile hobi olarak ilgileniyorum."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+-
+    id: 14
+    name: "Emir"
+    surname: "Karşıyakalı"
+    company: Düğün.com""
+    title: "Software Developer"
+    bio: "Emir Karşıyakalı is Web developer with a passion for open-source, community & PHP. He is Zend Certified PHP Engineer and over 10 years of experience in web application development. Currently works at Düğün.com as Senior Software Developer. User group leader of Istanbul PHP. Organizer of PHPKonf 2014, 2015, Jstanbul 2012, JSIST 2014, Mobilist 2013, PHP-ist 2013, HackING Hackathon 2014 and much more. ‘emir’ in GitHub. And always student at Bahçeşehir University."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+-
+    id: 15
+    name: "Resul Caner"
+    surname: "Yıldırım"
+    company: "Innovationbox"
+    title: "UX Designer"
+    bio: "Basically a technology geek. Mainly focused on the marketing and design of mobile applications. Passionate about marketing, UX, IoT and Android. Since 2012, he has been writing technology news and articles on protechman.net Organizer of the Google Developer Group Istanbul & Chief Problem Solver of Mobil Istanbul. Speaks at conferences worldwide. Also known as Protechman."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Istanbul", url: "https://developers.google.com/groups/"}
+-
+    id: 16
+    name: "Burak"
+    surname: "Aydın"
+    company: "4pps"
+    title: "CIO"
+    bio: "Burak 4pps mobil yazılım şirketinin kurucu ortaklarından biri. Son iki yıldır backend ve android geliştirici olarak çalışıyor. Inovatif ürünler geliştirmek amacıyla quadcopterler, arduino, raspberry pi ve ble cihazlarıyla ilgileniyor. Meraklı, Kahve sever, bisikletçi."
+    thumbnailUrl: burakaydin.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
+    social:
+       - {name: "twitter", link: "http://twitter.com/burakaydn"}
+-
+    id: 17
+    name: "Mert"
+    surname: "Şimşek"
+    company: "mobiwise"
+    title: "Computer Engineer"
+    bio: ""
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
+-
+    id: 18
+    name: "Harun"
+    surname: "Özel"
+    company: ""
+    title: "Elektrik Elektronik Mühendisi"
+    bio: "91 Ankara doğumluyum. 2014 yılında Kırıkkale Üniversitesi Elt. Elk. Müh mezunuyum. Şu anda özel bir firmada gömülü sistemler mühendisi olarak çalışıyorum."
+    thumbnailUrl: dummyUser.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}

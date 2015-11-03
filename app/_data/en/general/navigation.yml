@@ -3,7 +3,3 @@ links:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Venue"}
-bottomLinks:
- - {link: "http://bit.ly/1L0INvi", text: "Become a speaker"}
-rightButtons:
- - {link: "http://bit.ly/1L0INvi", text: "Become a speaker"}
