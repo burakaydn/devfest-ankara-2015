@@ -115,7 +115,7 @@
     complexity: "Beginner"
 -
     id: 114
-    title: "Modern PHP"
+    title: "Modern PHP & PHP 7 "
     description: "Oturumda PHP ekosisteminde son birkaç yılda olan modern gelişmeler yanı sıra Ekim ayının ortasında RC5 sürümü yayınlanan ve yıl sonuna kadar hayatımıza girecek olan PHP 7 yakından incelenecek. Modern araçlar, ekosistem ve topluluktan bahsedilecek bu sunum, her seviyeden geliştiriciye hitap ediyor!"
     subtype: presentation
     speakers: [14]
@@ -147,8 +147,8 @@
     complexity: "Beginner"
 -
     id: 118
-    title: "Bağlantı teknolojileri"
-    description: "Kısaca bütün geliştirme kartlarını bir bluetooth modül veya wifi herhangi bir bağlantı modülü ile elinizde ki telefon veya gene çeşitli bağlantı modülleri bulunan diğer cihazlarla onları elinizde ki telefondan yönetebiliriz."
+    title: "Arduino ile android mobil cihazdan bluetooth modül aracığıyla kontrol edebilmek"
+    description: "-Arduino seri haberleşme portlarının incelenmesi -Seri haberleşme portlarının arduino üstünden kullanıması -Arduino dan veri okuma, veri gönderme ya da android cihaz üstünden verilecek komutlara göre arduino'nun yönetilmesi Uygulama olarak android uygulamasından verilecek kodlarla RGB led sürülmesi."
     subtype: workshop
     speakers: [18]
     language: tr

@@ -1,5 +1,7 @@
 links:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/workshop-schedule/", text: "Workshops"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Venue"}

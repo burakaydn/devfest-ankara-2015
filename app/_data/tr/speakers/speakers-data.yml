@@ -5,7 +5,7 @@
     title: "Mobil Yazilim Gelistirici"
     bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünden 2012 yılında mezun oldu. GDG Eskişehir topluluğunda aktif olarak görev almakta. Aynı zamanda WTM Eskişehir topluluğunda co-organizerlar arasında. Android uygulamaları geliştirerek başladığı kariyer hayatına, şimdilerde iOS uygulamaları da geliştirerek devam ediyor."
     thumbnailUrl: burcu.jpg
-    rockstar: true
+    rockstar: false
     ribbon:
       - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
     social:
@@ -72,8 +72,11 @@
     company: "MetGlobal"
     title: "System Engineer"
     bio: "I started my career at Comodo and now I am working at MetGlobal as System Engineer. My proficiency is container and virtualization technologies. I am also a member of LKD."
-    thumbnailUrl: dummyUser.jpg
+    thumbnailUrl: numan.jpg
     rockstar: true
+    social:
+        - {name: "linkedin", link: "http://tr.linkedin.com/pub/fatih-yarci/7a/69/280"}
+        - {name: "site", link: "http://fatihyarci.com.tr/"}
 -
     id: 8
     name: "Ramazan"
@@ -81,19 +84,28 @@
     company: ""
     title: ""
     bio: "Ramazan Akay 2015 yılında Avrasya Üniversitesi Moleküler Biyoloji ve Genetik bölümü bitirdi. Bilgisayar ve internet sektöründe; Web Programlama, Arayüz Programlama ve Android  Programlama üzerine birçok eğitim alıp çalışmalar yaptı. Yazılımın da kendine has psikolojisi olduğunu iddia edip bununla ilgili birçok çalışmada bulundu ve Yazılımın Psikoloğu olarak da tanınmaktadır."
-    thumbnailUrl: dummyUser.jpg
+    thumbnailUrl: ramazanakay.jpg
     rockstar: true
+    social:
+        - {name: "twitter", link: "http://twitter.com/ramazanakay"}
+        - {name: "facebook", link: "http://facebook.com/ramazanakay"}
+        - {name: "linkedin", link: "http://linkedin.com/in/ramazanakay"}
+        - {name: "site", link: "http://ramazanakay.com/"}
 -
     id: 9
     name: "Yusuf Eren"
     surname: "Utku"
     company: Turkcell""
-    title: "Computer Engineer"
+    title: "Turkcell Geleceği Yazanlar Elçisi"
     bio: "Yusuf Eren Utku 1992 yılında Ankara'da doğdu. 2011 yılında Selçuk Üniversitesi Bilgisayar Mühendisliği bölümünü kazandı. Öğrenim hayatı boyunca farklı teknolojiler kullanarak farklı projelerde yer aldı. Bu süreçte GGJ Ege maratonunda 4. olan oyunu geliştiren ekibin bir parçası oldu. Sonraki sene GGJ Selçuk adıyla kendi üniversitesinde bu evrensel etkinliğin ilkinin yapılmasında organizatör olarak görev aldı. Havelsan ve Kodobur’da staj yaptı. Turkcell Geleceği Yazanlar Elçisi seçildi. 2015 Haziran'da mezun oldu. Elçiler olarak 20 saatlik eğitim seti hazırladılar. Geleceği Yazanlar Android uygulamasını geliştiren 7 elçiden biri oldu. Mastercard hackathonunda geliştirdikleri android uygulamaları ile üçüncü olan 5 kişilik ekip içerisindeydi. Şu an freelance android geliştiricisi."
-    thumbnailUrl: dummyUser.jpg
+    thumbnailUrl: eren.jpg
     rockstar: true
     ribbon:
       - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
+    social:
+        - {name: "twitter", link: "https://twitter.com/yerenutku"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/yerenutku"}
+        - {name: "site", link: "http://erenutku.com/"}
 -
     id: 10
     name: "Selçuk"
@@ -128,8 +140,12 @@
     company: "Okul Bilişim"
     title: "Web Developer"
     bio: "2007 Yılından beri php ile web uygulamaları geliştiriyorum. Şu anda OkulBilişim bünyesi altında yazılım geliştirmeye devam ediyorum. PHP dışında ruby, python ve golang ile hobi olarak ilgileniyorum."
-    thumbnailUrl: dummyUser.jpg
+    thumbnailUrl: emre.jpg
     rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/delirehberi"}
+        - {name: "facebook", link: "http://facebook.com/delirehberi"}
+        - {name: "site", link: "http://emre.xyz/"}
 -
     id: 14
     name: "Emir"
@@ -137,8 +153,12 @@
     company: Düğün.com""
     title: "Software Developer"
     bio: "Emir Karşıyakalı is Web developer with a passion for open-source, community & PHP. He is Zend Certified PHP Engineer and over 10 years of experience in web application development. Currently works at Düğün.com as Senior Software Developer. User group leader of Istanbul PHP. Organizer of PHPKonf 2014, 2015, Jstanbul 2012, JSIST 2014, Mobilist 2013, PHP-ist 2013, HackING Hackathon 2014 and much more. ‘emir’ in GitHub. And always student at Bahçeşehir University."
-    thumbnailUrl: dummyUser.jpg
+    thumbnailUrl: emir.jpg
     rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/emirkarsiyakali"}
+        - {name: "linkedin", link: "https://tr.linkedin.com/in/emirkarsiyakali"}
+        - {name: "site", link: "http://emir.im/"}
 -
     id: 15
     name: "Resul Caner"
@@ -146,7 +166,7 @@
     company: "Innovationbox"
     title: "UX Designer"
     bio: "Basically a technology geek. Mainly focused on the marketing and design of mobile applications. Passionate about marketing, UX, IoT and Android. Since 2012, he has been writing technology news and articles on protechman.net Organizer of the Google Developer Group Istanbul & Chief Problem Solver of Mobil Istanbul. Speaks at conferences worldwide. Also known as Protechman."
-    thumbnailUrl: dummyUser.jpg
+    thumbnailUrl: caner.jpg
     rockstar: true
     ribbon:
       - {abbr: "GDG", title: "Google Developer Group Istanbul", url: "https://developers.google.com/groups/"}
@@ -170,7 +190,7 @@
     company: "mobiwise"
     title: "Computer Engineer"
     bio: ""
-    thumbnailUrl: dummyUser.jpg
+    thumbnailUrl: mertsimsek.png
     rockstar: true
     ribbon:
       - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
@@ -181,7 +201,7 @@
     company: ""
     title: "Elektrik Elektronik Mühendisi"
     bio: "91 Ankara doğumluyum. 2014 yılında Kırıkkale Üniversitesi Elt. Elk. Müh mezunuyum. Şu anda özel bir firmada gömülü sistemler mühendisi olarak çalışıyorum."
-    thumbnailUrl: dummyUser.jpg
+    thumbnailUrl: harun.jpg
     rockstar: true
     ribbon:
       - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
